@@ -1,2 +1,4 @@
 pytest
-selene
+selene>=2.0.0b4
+webdriver-manager==4.0.0
+
